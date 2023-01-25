@@ -1,5 +1,5 @@
 # CRUD-PHP
-Latihan CRUD dasar menggunakan PHP dengan Bootstrap 
+Latihan CRUD membuat Form Mahasiswa menggunakan PHP dengan Bootstrap 
 
 - Form Add
 - Form Edit
